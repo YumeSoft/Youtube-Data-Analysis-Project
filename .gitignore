@@ -172,3 +172,5 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+youtube_trending_combined_dataset.csv
+.~lock.youtube_trending_combined_dataset.csv#
